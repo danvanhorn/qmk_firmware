@@ -22,6 +22,13 @@
 
 #define NO_SOUND
 
+/*
+* Sailor Moon
+* Author: Dan Van Horn
+*/
+#define SAILOR_MOON W__NOTE(_C6), W__NOTE(_F6), W__NOTE(_A6), W__NOTE(_C7), W__NOTE(_REST), W__NOTE(_REST), H__NOTE(_C7), W__NOTE(_B6), W__NOTE(_REST), W__NOTE(_REST), H__NOTE(_B6), W__NOTE(_A6), W__NOTE(_G6), WD_NOTE(_B6),
+
+
 /* Ode to Joy
  * Author: Friedrich Schiller
  + License: Public Domain
